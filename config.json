@@ -1,0 +1,34 @@
+{
+  "code": "TONGMYONG",
+  "title": "SMASH TONGMYONG",
+  "school": "동명대",
+  "fullName": "동명대학교",
+  "campusName": "동명대학교",
+  "tagline": "동명대를 부셔 (시험기간 스트레스 해소)",
+  "description": "동명대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 동명대학교 3D 화면과 SMASH TONGMYONG 제목",
+  "url": "https://hong-iron.github.io/SMASH-TONGMYONG/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 164607879
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        35.1208404,
+        129.1013829
+      ],
+      "n": "부산항만물류고등학교",
+      "why": "학교 건물 아님 — 대장 이름이 부산항만물류고등학교(지금은 동명공업고등학교)인 옆 고등학교 건물이고, 동명대 캠퍼스맵에도 다른 학교로 따로 표시되어 있다."
+    }
+  ]
+}
